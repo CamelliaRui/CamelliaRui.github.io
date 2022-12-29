@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://camelliarui.github.io/</loc>
-  </url><url>
     <loc>https://camelliarui.github.io/authors/</loc>
   </url><url>
     <loc>https://camelliarui.github.io/author/camelliaxinyue-rui/</loc>
@@ -19,5 +17,7 @@
     <loc>https://camelliarui.github.io/talk/</loc>
   </url><url>
     <loc>https://camelliarui.github.io/tags/</loc>
+  </url><url>
+    <loc>https://camelliarui.github.io/</loc>
   </url>
 </urlset>
